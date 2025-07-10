@@ -40,15 +40,9 @@ Este projeto foi desenvolvido como parte dos laboratórios da **Escola da Nuvem*
 9. Edição da política de confiança para negar novo acesso.
 10. Limpeza dos recursos utilizados.
 
----
 
-## 📂 Arquivos no Repositório
+---![WhatsApp Image 2025-06-09 at 17 50 25 (1)](https://github.com/user-attachments/assets/5a09a8a6-e293-43fe-83d5-29f58c6db16d)
 
-- `credenciais_temporarias.py` — script Python para geração das credenciais.
-- `README.md` — este arquivo.
-- (Opcional) `imagens/` — capturas de tela da execução.
-
----
 
 ## 📎 Resultados
 
@@ -64,6 +58,3 @@ Este projeto foi desenvolvido como parte dos laboratórios da **Escola da Nuvem*
 - GitHub: [https://github.com/seu-usuario](https://github.com/seu-usuario)
 - LinkedIn: [https://www.linkedin.com/in/tiagomascarenhas/](https://www.linkedin.com/in/tiagomascarenhas/)
 
----
-
-> Projeto realizado como parte do curso AWS re/Start pela **Escola da Nuvem**.

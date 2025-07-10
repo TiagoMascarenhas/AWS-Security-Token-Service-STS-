@@ -41,7 +41,9 @@ Este projeto foi desenvolvido como parte dos laboratórios da **Escola da Nuvem*
 10. Limpeza dos recursos utilizados.
 
 
----![WhatsApp Image 2025-06-09 at 17 50 25 (1)](https://github.com/user-attachments/assets/5a09a8a6-e293-43fe-83d5-29f58c6db16d)
+![WhatsApp Image 2025-06-09 at 17 50 25 (1)](https://github.com/user-attachments/assets/7d73f24a-ae66-4ea2-9a22-6f78788aca8e)
+
+---
 
 
 ## 📎 Resultados

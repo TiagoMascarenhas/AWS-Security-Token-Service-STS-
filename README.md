@@ -40,10 +40,15 @@ Este projeto foi desenvolvido como parte dos laboratórios da **Escola da Nuvem*
 9. Edição da política de confiança para negar novo acesso.
 10. Limpeza dos recursos utilizados.
 
-
-![WhatsApp Image 2025-06-09 at 17 50 25 (1)](https://github.com/user-attachments/assets/7d73f24a-ae66-4ea2-9a22-6f78788aca8e)
-
 ---
+
+## 📌 Prints e codigo
+
+![WhatsApp Image 2025-06-09 at 17 50 25 (1)](https://github.com/user-attachments/assets/a6180342-e342-4ab0-91a4-cb18842aa256)
+
+![image](https://github.com/user-attachments/assets/5ac04ef3-0409-434e-b02a-e1593e8c586f)
+
+
 
 
 ## 📎 Resultados
